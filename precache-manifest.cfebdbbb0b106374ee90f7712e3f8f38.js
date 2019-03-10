@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/reactmovie/static/media/fontawesome-webfont.af7ae505.woff2"
   },
   {
-    "revision": "f5731f153897fff648da",
+    "revision": "d14a0f707ab9b82f07b4",
     "url": "/reactmovie/static/css/main.07020c43.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = [
     "url": "/reactmovie/static/js/2.06510b73.chunk.js"
   },
   {
-    "revision": "f5731f153897fff648da",
-    "url": "/reactmovie/static/js/main.071b7130.chunk.js"
+    "revision": "d14a0f707ab9b82f07b4",
+    "url": "/reactmovie/static/js/main.cf1b9ba7.chunk.js"
   },
   {
     "revision": "fee66e712a8a08eef5805a46892932ad",
@@ -40,7 +40,7 @@ self.__precacheManifest = [
     "url": "/reactmovie/static/css/2.57f9b8fb.chunk.css"
   },
   {
-    "revision": "7ede481cc0abc3d00357195c763af401",
+    "revision": "3863535da2993fa798bd6bae8cef58d2",
     "url": "/reactmovie/index.html"
   }
 ];

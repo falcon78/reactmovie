@@ -189,7 +189,11 @@ const Navbar = () => {
 const Footer = () => {
   return (
     <footer>
-      <a className="aclass footer" target="_blank" href="github.com">
+      <a
+        className="aclass footer"
+        target="_blank"
+        href="https://github.com/falcon78/reactmovie"
+      >
         <i className="fa fa-github" /> Github
       </a>
     </footer>
